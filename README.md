@@ -9,7 +9,7 @@ I'm a Backend Software Engineer passionate about building scalable APIs, backend
 
 -
 
-## 🚀 About Me
+##  About Me
 
 * 💻 Backend developer specializing in **Node.js** and **Express.js**
 * 🗄️ Experienced with **MongoDB**, **Mongoose**, and RESTful API design
